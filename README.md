@@ -1,2 +1,2 @@
 # GeeksforGeeks-Submissions
-This repository serves as a collection of my solutions to various GeeksforGeeks Data Structures and Algorithms (DSA) problems, organized by the level of difficulty. - Created using [GfG To GitHub](https://github.com/AtharvaNanavate/GfG-To-GitHub)
+This repository contains my solutions to a variety of GeeksforGeeks Data Structures and Algorithms (DSA) problems, systematically organized by difficulty level.
